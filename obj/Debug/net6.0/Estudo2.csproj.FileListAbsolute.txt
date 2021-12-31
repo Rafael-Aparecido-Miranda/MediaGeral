@@ -1,0 +1,15 @@
+C:\Users\rafae\VSCode - Workspace\Estudo2\bin\Debug\net6.0\Estudo2.exe
+C:\Users\rafae\VSCode - Workspace\Estudo2\bin\Debug\net6.0\Estudo2.deps.json
+C:\Users\rafae\VSCode - Workspace\Estudo2\bin\Debug\net6.0\Estudo2.runtimeconfig.json
+C:\Users\rafae\VSCode - Workspace\Estudo2\bin\Debug\net6.0\Estudo2.dll
+C:\Users\rafae\VSCode - Workspace\Estudo2\bin\Debug\net6.0\ref\Estudo2.dll
+C:\Users\rafae\VSCode - Workspace\Estudo2\bin\Debug\net6.0\Estudo2.pdb
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.csproj.AssemblyReference.cache
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.AssemblyInfoInputs.cache
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.AssemblyInfo.cs
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.dll
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\ref\Estudo2.dll
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.pdb
+C:\Users\rafae\VSCode - Workspace\Estudo2\obj\Debug\net6.0\Estudo2.genruntimeconfig.cache
